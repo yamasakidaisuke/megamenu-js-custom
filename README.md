@@ -9,5 +9,11 @@ Last responsive megamenu you'll ever need
 Live demo is avaliable on codepen
 [megamenu.js demo](https://yamasakidaisuke.github.io/megamenu-js-custom/)
 
+## memo
+利用する場合は以下のファイルを利用する
+index.html
+css/icomoon-custom.css
+css/style.css
+js/megamenu.js
 
 ## To do
