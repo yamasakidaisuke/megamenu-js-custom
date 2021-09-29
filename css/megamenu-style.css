@@ -54,7 +54,7 @@ Screen style's
 }
 
 .menu-mobile:after {
-	content: "\e9bd";
+	content: "\e901";
 	font-family: "icomoon-custom";
 	font-size: 2.5rem;
 	padding: 0;
@@ -67,7 +67,7 @@ Screen style's
 }
 
 .menu-dropdown-icon:before {
-	content: "\ea0a";
+	content: "\f055";
 	font-family: "icomoon-custom";
 	display: none;
 	cursor: pointer;
