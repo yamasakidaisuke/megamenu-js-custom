@@ -5,7 +5,7 @@ Last responsive megamenu you'll ever need
 
 
 
-#### Live Demo
+## Live Demo
 Live demo is avaliable on codepen
 [megamenu.js demo](https://yamasakidaisuke.github.io/megamenu-js-custom/)
 
@@ -17,3 +17,8 @@ css/style.css
 js/megamenu.js
 
 ## To do
+
+## 参考サイト様
+グローバルナビゲーション
+-スクロール途中からヘッダーの高さが小さくなる-
+[https://coco-factory.jp/ugokuweb/move01/5-1-8/]

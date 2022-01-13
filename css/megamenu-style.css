@@ -32,6 +32,7 @@ a {
 	-webkit-transform: translateX(-50%);
 	-ms-transform: translateX(-50%);
 	transform: translateX(-50%);
+	height: 2000px;
 }
 
 /* ––––––––––––––––––––––––––––––––––––––––––––––––––
@@ -267,4 +268,25 @@ Mobile style's
 		/* background: #e9e9e9; */
 		z-index: 10;
 	}
+}
+
+
+/*HeightMinというクラス名がついたら高さを小さく、上部固定に*/
+#header.HeightMin{
+position: fixed;
+	z-index: 999;/*最前面へ*/
+height:71px;
+width: 100%;
+animation: DownAnime 0.5s forwards;
+}
+
+@keyframes DownAnime{
+from {
+	opacity: 0;
+transform: translateY(-170px);
+}
+to {
+	opacity: 1;
+transform: translateY(0);
+}
 }
